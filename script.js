@@ -1,0 +1,1 @@
+let greeting = () => console.log('greeting func')
